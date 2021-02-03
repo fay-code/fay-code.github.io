@@ -2,13 +2,13 @@
 
 .h1 {
     font-family: 'Yusei Magic';
-    margin-left: 120px;
+    margin-left: 100px;
     text-shadow: 1px 1px;
 }
 
 .h2 {
     font-family: 'Yusei Magic';
-    margin-left: 120px;
+    margin-left: 100px;
     text-shadow: 1px 1px;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .btn-warning {
-    margin-left: 120px;
+    margin-left: 100px;
     color: white;
 }
 
@@ -40,6 +40,22 @@
     background: linear-gradient(90deg, rgba(237, 134, 6, 1) 0%, rgba(226, 212, 82, 1) 47%, rgba(250, 127, 4, 1) 100%);
 }
 
+.h4 {
+    font-family: 'Yusei Magic';
+    text-shadow: 1px 1px;
+}
+
+a:link,
+a:visited {
+    color: #686868;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
 body {
     width: auto;
     height: auto;
@@ -51,7 +67,7 @@ body {
 }
 
 p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Londrina Solid', cursive;
     font-size: 10px;
 }
 
@@ -110,11 +126,6 @@ h5 {
 
 .bi-envelope-fill {
     margin-right: 5px;
-}
-
-.fa-facebook {
-    color: #3b5998;
-    font-size: 48px;
 }
 
 .fa-linkedin {
