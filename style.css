@@ -45,13 +45,13 @@
     text-shadow: 1px 1px;
 }
 
-a:link,
-a:visited {
+.projek:link,
+.projek:visited {
     color: #686868;
     text-decoration: none;
 }
 
-a:hover {
+.projek:hover {
     color: #ff0000;
     text-decoration: underline;
 }
